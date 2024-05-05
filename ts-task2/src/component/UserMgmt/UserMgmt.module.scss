@@ -1,0 +1,33 @@
+.maincontainer{
+    left: 20px;
+    top: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 400px;
+    border: 2px solid blue;
+}
+
+.maincontainer2{
+    left: 20px;
+    top: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    border: 2px solid rgb(225, 17, 17);
+}
+
+.labels{
+    margin: 2px;
+    padding: 2px;
+
+}
+
+.inputs{
+    width: 300px;
+    display: inline-block;
+    height: 50px;
+}
